@@ -1,0 +1,1 @@
+Outflow boundary condition for ShallowWaterSolver. The boundary condition is implemented by solving an trival zero-order Riemann problem via extrapolation.
